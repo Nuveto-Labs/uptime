@@ -3,10 +3,46 @@ owner: Nuveto-Labs # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
+  - name: Portal Cultura
+    url: $PORTAL_CULTURA
+  - name: Portal Suzano
+    url: $PORTAL_SUZANO
+  - name: Portal Vip
+    url: $PORTAL_VIP
+  - name: Sigma Banco W
+    url: $SIGMA_BANCOW
+  - name: Sigma Cardif
+    url: $SIGMA_CARDIF
+  - name: Sigma Demo
+    url: $SIGMA_DEMO
+  - name: Sigma Dentalia
+    url: $SIGMA_DENTALIA
+  - name: Sigma Flash Mobile
+    url: $SIGMA_FLASH
+  - name: Sigma Fonafe
+    url: $SIGMA_FONAFE
   - name: Sigma Lab
     url: $SIGMA_LAB
+  - name: Sigma LAP
+    url: $SIGMA_LAP
+  - name: Sigma Melitta
+    url: $SIGMA_MELITTA
+  - name: Sigma Nassau
+    url: $SIGMA_NASSAU
+  - name: Sigma Timac Agro
+    url: $SIGMA_TIMAC
+  - name: Sigma Unimed
+    url: $SIGMA_UNIMED
+  - name: Sigma Vip
+    url: $SIGMA_VIP
+  - name: Voraki Demo
+    url: $VORAKI_DEMO
   - name: Voraki Lab
     url: $VORAKI_LAB
+  - name: Voraki Madeira Madeira
+    url: $VORAKI_MADEIRA
+  - name: Voraki SumUp
+    url: $VORAKI_SUMUP
 
 assignees:
   - igormaraujo-nuveto
