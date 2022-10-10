@@ -166,19 +166,19 @@
     "url": "$SIGMA_LAB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-lab",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 643,
-    "timeDay": 700,
-    "timeWeek": 643,
-    "timeMonth": 643,
-    "timeYear": 643,
+    "status": "up",
+    "uptime": "99.63%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.63%",
+    "uptimeYear": "99.63%",
+    "time": 712,
+    "timeDay": 912,
+    "timeWeek": 712,
+    "timeMonth": 712,
+    "timeYear": 712,
     "dailyMinutesDown": {
-      "2022-10-10": 1
+      "2022-10-10": 15
     }
   },
   {
@@ -312,19 +312,19 @@
     "url": "$VORAKI_LAB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "voraki-lab",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 558,
-    "timeWeek": 547,
-    "timeMonth": 547,
-    "timeYear": 547,
+    "status": "up",
+    "uptime": "99.65%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.65%",
+    "uptimeYear": "99.65%",
+    "time": 645,
+    "timeDay": 816,
+    "timeWeek": 645,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2022-10-10": 0
+      "2022-10-10": 14
     }
   },
   {
