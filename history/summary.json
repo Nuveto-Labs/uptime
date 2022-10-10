@@ -94,18 +94,20 @@
     "url": "$SIGMA_DEMO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-demo",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 573,
-    "timeDay": 569,
-    "timeWeek": 573,
-    "timeMonth": 573,
-    "timeYear": 573,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 588,
+    "timeDay": 601,
+    "timeWeek": 588,
+    "timeMonth": 588,
+    "timeYear": 588,
+    "dailyMinutesDown": {
+      "2022-10-10": 0
+    }
   },
   {
     "name": "Sigma Dentalia",
@@ -167,19 +169,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-lab",
     "status": "up",
-    "uptime": "99.63%",
-    "uptimeDay": "98.99%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 712,
     "timeDay": 912,
     "timeWeek": 712,
     "timeMonth": 712,
     "timeYear": 712,
-    "dailyMinutesDown": {
-      "2022-10-10": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sigma LAP",
@@ -313,19 +313,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "voraki-lab",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.65%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 645,
     "timeDay": 816,
     "timeWeek": 645,
     "timeMonth": 645,
     "timeYear": 645,
-    "dailyMinutesDown": {
-      "2022-10-10": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Voraki Madeira Madeira",
