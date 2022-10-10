@@ -166,18 +166,20 @@
     "url": "$SIGMA_LAB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-lab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 609,
     "timeDay": 482,
     "timeWeek": 609,
     "timeMonth": 609,
     "timeYear": 609,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-10": 0
+    }
   },
   {
     "name": "Sigma LAP",
@@ -310,18 +312,20 @@
     "url": "$VORAKI_LAB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "voraki-lab",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 517,
     "timeDay": 391,
     "timeWeek": 517,
     "timeMonth": 517,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-10": 0
+    }
   },
   {
     "name": "Voraki Madeira Madeira",
