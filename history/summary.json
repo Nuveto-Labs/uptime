@@ -292,18 +292,20 @@
     "url": "$VORAKI_DEMO",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "voraki-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 430,
-    "timeDay": 517,
-    "timeWeek": 430,
-    "timeMonth": 430,
-    "timeYear": 430,
-    "dailyMinutesDown": {}
+    "time": 475,
+    "timeDay": 631,
+    "timeWeek": 475,
+    "timeMonth": 475,
+    "timeYear": 475,
+    "dailyMinutesDown": {
+      "2022-10-13": 0
+    }
   },
   {
     "name": "Voraki Lab",
