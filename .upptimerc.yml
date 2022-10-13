@@ -6,7 +6,7 @@ sites:
   - name: OpenVidu
     url: $OPENVIDU
     headers:
-    - "Authorization: $OPENVIDU_AUTHORIZATION_HEADER"
+    - "Authorization: Basic $OPENVIDU_AUTHORIZATION_HEADER"
   - name: Portal Cultura
     url: $PORTAL_CULTURA
   - name: Portal Suzano
