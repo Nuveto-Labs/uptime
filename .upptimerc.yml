@@ -3,6 +3,10 @@ owner: Nuveto-Labs # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
+  - name: OpenVidu
+    url: $OPENVIDU
+    headers:
+    - "Authorization: $OPENVIDU_AUTHORIZATION_HEADER"
   - name: Portal Cultura
     url: $PORTAL_CULTURA
   - name: Portal Suzano
@@ -13,6 +17,8 @@ sites:
     url: $SIGMA_BANCOW
   - name: Sigma Cardif
     url: $SIGMA_CARDIF
+  - name: Sigma Colfondos
+    url: $SIGMA_COLFONDOS
   - name: Sigma Demo
     url: $SIGMA_DEMO
   - name: Sigma Dentalia
@@ -33,6 +39,8 @@ sites:
     url: $SIGMA_TIMAC
   - name: Sigma Unimed
     url: $SIGMA_UNIMED
+  - name: Sigma Vcimentos
+    url: $SIGMA_VCIMENTOS
   - name: Sigma Vip
     url: $SIGMA_VIP
   - name: Voraki Demo
