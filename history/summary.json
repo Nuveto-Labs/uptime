@@ -329,18 +329,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "voraki-demo",
     "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
+    "uptime": "99.36%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 540,
     "timeDay": 708,
     "timeWeek": 587,
     "timeMonth": 540,
     "timeYear": 540,
     "dailyMinutesDown": {
-      "2022-10-21": 0,
+      "2022-10-21": 13,
       "2022-10-13": 113
     }
   },
@@ -385,9 +385,9 @@
     "url": "$VORAKI_SUMUP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "voraki-sum-up",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -396,6 +396,8 @@
     "timeWeek": 104,
     "timeMonth": 101,
     "timeYear": 101,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-21": 0
+    }
   }
 ]
