@@ -321,19 +321,19 @@
     "url": "$SIGMA_VIP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-vip",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "96.62%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.94%",
-    "time": 1116,
-    "timeDay": 11676,
-    "timeWeek": 4270,
-    "timeMonth": 1680,
-    "timeYear": 1116,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "95.94%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.93%",
+    "time": 1242,
+    "timeDay": 11110,
+    "timeWeek": 4785,
+    "timeMonth": 1914,
+    "timeYear": 1242,
     "dailyMinutesDown": {
-      "2022-12-06": 49
+      "2022-12-06": 59
     }
   },
   {
@@ -353,7 +353,7 @@
     "timeMonth": 465,
     "timeYear": 495,
     "dailyMinutesDown": {
-      "2022-12-06": 919,
+      "2022-12-06": 930,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
@@ -462,7 +462,7 @@
     "timeMonth": 0,
     "timeYear": 101,
     "dailyMinutesDown": {
-      "2022-12-06": 919,
+      "2022-12-06": 930,
       "2022-12-05": 1440,
       "2022-12-04": 1440,
       "2022-12-03": 1440,
