@@ -1,7 +1,7 @@
 url: $VORAKI_MADEIRA
-status: up
-code: 200
-responseTime: 35
-lastUpdated: 2022-12-06T23:04:52.931Z
+status: down
+code: 503
+responseTime: 56
+lastUpdated: 2022-12-07T19:28:15.118Z
 startTime: Sat Oct 08 2022 02:22:23 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
