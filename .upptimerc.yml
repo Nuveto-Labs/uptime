@@ -3,6 +3,13 @@ owner: Nuveto-Labs # Your GitHub organization or username, where this repository
 repo: uptime # The name of this repository
 
 sites:
+  - name: Inference VIP
+    url: $INFERENCE_VIP
+    method: POST
+    headers:
+    - "Content-Type: application/json"
+    body: '{ "text": "upptime", "api_key": "$INFERENCE_VIP_API_KEY", "task_key": "$INFERENCE_VIP_TASK_KEY", "session_id": "" }'
+    maxResponseTime: 5000
   - name: Portal Cultura
     url: $PORTAL_CULTURA
   - name: Portal Suzano
