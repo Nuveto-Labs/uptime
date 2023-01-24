@@ -4,19 +4,19 @@
     "url": "$INFERENCE_VIP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "inference-vip",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 855,
-    "timeDay": 6089,
-    "timeWeek": 2162,
-    "timeMonth": 861,
-    "timeYear": 855,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 836,
+    "timeDay": 4117,
+    "timeWeek": 1941,
+    "timeMonth": 840,
+    "timeYear": 836,
     "dailyMinutesDown": {
-      "2023-01-24": 0
+      "2023-01-24": 8
     }
   },
   {
@@ -381,7 +381,7 @@
     "timeMonth": 118,
     "timeYear": 334,
     "dailyMinutesDown": {
-      "2023-01-24": 461,
+      "2023-01-24": 469,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
@@ -544,7 +544,7 @@
     "timeMonth": 95,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-01-24": 461,
+      "2023-01-24": 469,
       "2023-01-23": 1440,
       "2023-01-22": 1440,
       "2023-01-21": 1440,
