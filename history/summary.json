@@ -245,19 +245,19 @@
     "url": "$SIGMA_LAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-lap",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 210,
-    "timeDay": 171,
-    "timeWeek": 202,
-    "timeMonth": 207,
-    "timeYear": 210,
+    "time": 212,
+    "timeDay": 353,
+    "timeWeek": 244,
+    "timeMonth": 218,
+    "timeYear": 212,
     "dailyMinutesDown": {
-      "2023-03-11": 0
+      "2023-03-11": 8
     }
   },
   {
@@ -395,7 +395,7 @@
     "timeMonth": 92,
     "timeYear": 250,
     "dailyMinutesDown": {
-      "2023-03-11": 1222,
+      "2023-03-11": 1230,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
@@ -608,7 +608,7 @@
     "timeMonth": 84,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2023-03-11": 1222,
+      "2023-03-11": 1230,
       "2023-03-10": 1440,
       "2023-03-09": 1440,
       "2023-03-08": 1440,
