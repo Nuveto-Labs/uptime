@@ -1,7 +1,7 @@
 url: $PORTAL_VIP
-status: down
-code: 503
-responseTime: 505
-lastUpdated: 2023-03-16T12:51:42.250Z
+status: up
+code: 200
+responseTime: 774
+lastUpdated: 2023-03-16T13:18:33.767Z
 startTime: Sat Oct 08 2022 02:22:11 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
