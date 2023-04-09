@@ -345,11 +345,11 @@
     "url": "$SIGMA_VCIMENTOS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-vcimentos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1106,
     "timeDay": 13709,
@@ -357,7 +357,7 @@
     "timeMonth": 4343,
     "timeYear": 1106,
     "dailyMinutesDown": {
-      "2023-04-09": 7,
+      "2023-04-09": 0,
       "2023-04-02": 16
     }
   },
@@ -400,7 +400,7 @@
     "timeMonth": 89,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2023-04-09": 936,
+      "2023-04-09": 946,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
@@ -644,7 +644,7 @@
     "timeMonth": 89,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2023-04-09": 937,
+      "2023-04-09": 946,
       "2023-04-08": 1440,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
