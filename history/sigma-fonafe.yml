@@ -1,7 +1,7 @@
 url: $SIGMA_FONAFE
-status: down
-code: 500
-responseTime: 155
-lastUpdated: 2023-04-24T18:57:20.001Z
+status: up
+code: 200
+responseTime: 291
+lastUpdated: 2023-04-24T19:16:53.673Z
 startTime: Sat Oct 08 2022 02:22:16 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
