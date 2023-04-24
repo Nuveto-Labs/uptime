@@ -201,19 +201,19 @@
     "url": "$SIGMA_FONAFE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-fonafe",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 203,
-    "timeDay": 216,
-    "timeWeek": 201,
-    "timeMonth": 194,
+    "timeDay": 241,
+    "timeWeek": 211,
+    "timeMonth": 197,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2023-04-24": 0
+      "2023-04-24": 20
     }
   },
   {
@@ -405,7 +405,7 @@
     "timeMonth": 83,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2023-04-24": 1138,
+      "2023-04-24": 1158,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -631,7 +631,7 @@
     "uptime": "93.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "67.50%",
+    "uptimeMonth": "67.45%",
     "uptimeYear": "93.88%",
     "time": 143,
     "timeDay": 299,
@@ -639,7 +639,7 @@
     "timeMonth": 137,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2023-04-24": 1138,
+      "2023-04-24": 1158,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
@@ -675,7 +675,7 @@
     "timeMonth": 50,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2023-04-24": 1138,
+      "2023-04-24": 1158,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
       "2023-04-21": 1440,
