@@ -126,11 +126,11 @@
     "url": "$SIGMA_COLFONDOS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-colfondos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "93.31%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.78%",
+    "uptimeDay": "93.86%",
+    "uptimeWeek": "99.12%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "99.96%",
     "time": 439,
     "timeDay": 6313,
@@ -138,7 +138,7 @@
     "timeMonth": 1271,
     "timeYear": 439,
     "dailyMinutesDown": {
-      "2023-06-01": 96,
+      "2023-06-01": 88,
       "2023-01-26": 30
     }
   },
@@ -416,7 +416,7 @@
     "timeMonth": 112,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2023-06-01": 1164,
+      "2023-06-01": 1173,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -689,7 +689,7 @@
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-06-01": 1164,
+      "2023-06-01": 1173,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
@@ -763,7 +763,7 @@
     "timeMonth": 0,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2023-06-01": 1164,
+      "2023-06-01": 1173,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
       "2023-05-29": 1440,
