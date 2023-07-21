@@ -1,7 +1,7 @@
 url: $VORAKI_LAB
-status: up
-code: 200
-responseTime: 568
-lastUpdated: 2023-07-20T23:04:48.865Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2023-07-21T07:07:53.418Z
 startTime: Sat Oct 08 2022 01:32:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
