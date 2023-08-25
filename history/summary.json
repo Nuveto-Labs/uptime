@@ -210,19 +210,19 @@
     "url": "$SIGMA_FLASH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-flash-mobile",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 1166,
-    "timeWeek": 306,
-    "timeMonth": 250,
+    "timeDay": 685,
+    "timeWeek": 293,
+    "timeMonth": 248,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2023-08-25": 0
+      "2023-08-25": 9
     }
   },
   {
@@ -449,7 +449,7 @@
     "timeMonth": 89,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2023-08-25": 382,
+      "2023-08-25": 391,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -812,7 +812,7 @@
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2023-08-25": 382,
+      "2023-08-25": 391,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
@@ -971,7 +971,7 @@
     "timeMonth": 0,
     "timeYear": 90,
     "dailyMinutesDown": {
-      "2023-08-25": 382,
+      "2023-08-25": 391,
       "2023-08-24": 1440,
       "2023-08-23": 1440,
       "2023-08-22": 1440,
