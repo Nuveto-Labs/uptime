@@ -293,19 +293,19 @@
     "url": "$SIGMA_LAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sigma-lap",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 82,
-    "timeWeek": 155,
+    "timeDay": 126,
+    "timeWeek": 157,
     "timeMonth": 169,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-11-18": 1
+      "2023-11-18": 16
     }
   },
   {
@@ -455,7 +455,7 @@
     "timeMonth": 93,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2023-11-18": 522,
+      "2023-11-18": 537,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
@@ -864,7 +864,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "voraki-madeira-madeira",
     "status": "down",
-    "uptime": "45.92%",
+    "uptime": "45.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -875,7 +875,7 @@
     "timeMonth": 0,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-11-18": 522,
+      "2023-11-18": 537,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
@@ -1119,7 +1119,7 @@
     "timeMonth": 0,
     "timeYear": 88,
     "dailyMinutesDown": {
-      "2023-11-18": 522,
+      "2023-11-18": 537,
       "2023-11-17": 1440,
       "2023-11-16": 1440,
       "2023-11-15": 1440,
