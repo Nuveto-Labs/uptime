@@ -1,7 +1,7 @@
 url: $SIGMA_LAB
-status: up
-code: 200
-responseTime: 1779
-lastUpdated: 2023-12-27T12:40:44.080Z
+status: down
+code: 500
+responseTime: 1862
+lastUpdated: 2023-12-27T20:53:46.259Z
 startTime: 2022-10-08T01:00:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
