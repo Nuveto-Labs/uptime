@@ -1,7 +1,7 @@
 url: $SIGMA_CARDIF
-status: down
-code: 500
-responseTime: 863
-lastUpdated: 2024-03-06T01:27:27.269Z
+status: up
+code: 200
+responseTime: 1426
+lastUpdated: 2024-03-06T13:10:20.799Z
 startTime: 2022-10-08T02:22:13.000Z
 generator: Upptime <https://github.com/upptime/upptime>
