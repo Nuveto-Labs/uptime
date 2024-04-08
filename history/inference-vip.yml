@@ -1,7 +1,7 @@
 url: $INFERENCE_VIP
-status: degraded
+status: up
 code: 200
-responseTime: 10779
-lastUpdated: 2024-04-08T02:01:50.100Z
+responseTime: 186
+lastUpdated: 2024-04-08T02:29:18.968Z
 startTime: 2022-12-21T02:22:29.000Z
 generator: Upptime <https://github.com/upptime/upptime>
